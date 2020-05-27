@@ -1,4 +1,9 @@
 # handshake
-需求
-1.辨識手指
-2.顯示手指所畫出的軌跡
+利用影像偵測指尖，顯示出手指所畫出的軌跡
+
+##需求
+*Python 3.7
+*OpenCV 
+*Other libraries you needed
+
+
